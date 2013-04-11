@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<laptops>
+    <laptop model = "Dell Inspiron i13z-3181PNK">
+        <brand>Dell</brand>
+        <price>$699.99</price>
+        <description>Switch your lid to match your mood.
+            A 13.3" laptop with 3rd Gen Intel Core processor power and optional SWITCH lids
+        </description>
+        <technical-details>
+            Intel 2nd gen Core i3-2367 1.40GHz 1.40 GHz (6MB Cache)
+            6 GB DIMM
+            500GB 5400 rpm SATA Hard Drive
+            13-Inch Screen
+            Windows 7 Home Premium 64-bit
+        </technical-details>
+        <image-url>http://localhost/uno.jpg</image-url>
+    </laptop>
+    <laptop model = "Dell XPS XPS13-9001sLV">
+        <brand>Dell</brand>
+        <price>$1,399.99</price>
+        <description>Strikingly thin, with more room to view.
+        </description>
+        <technical-details>
+            Intel Core i7-2637M (1.70GHz, 4MB Cache)
+            4 GB DIMM
+            256GB Solid State Drive
+            13-Inch Screen
+            Windows 7 Home Premium 64-bit
+        </technical-details>
+        <image-url>http://localhost/due.jpg</image-url>
+    </laptop>
+ 
+</laptops>

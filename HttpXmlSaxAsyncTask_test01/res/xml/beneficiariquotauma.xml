@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beneficiari>
+    <beneficiario>
+        <cuaa>ABCDEF</cuaa>
+        <pwd>12345</pwd>
+        <nome>tranquillo camillo</nome>
+        <anno_quota>2013</anno_quota>
+        <litri_assegnati>1500</litri_assegnati>
+        <transazioni>
+            <transazione>
+                <id_transazione>01</id_transazione>
+                <data>03/01/2013</data>
+                <litri_ritirati>150</litri_ritirati>
+            </transazione>
+            <transazione>
+                <id_transazione>02</id_transazione>
+                <data>03/03/2013</data>
+                <litri_ritirati>180</litri_ritirati>
+            </transazione>
+            <transazione>
+                <id_transazione>03</id_transazione>
+                <data>04/03/2013</data>
+                <litri_ritirati>12</litri_ritirati>
+            </transazione>
+        </transazioni>
+    </beneficiario>
+    <beneficiario>
+        <cuaa>BCDEFG</cuaa>
+        <pwd>23456</pwd>
+        <nome>primo martire</nome>
+        <anno_quota>2013</anno_quota>
+        <litri_assegnati>1100</litri_assegnati>
+        <transazioni>
+            <transazione>
+                <id_transazione>01</id_transazione>
+                <data>01/01/2013</data>
+                <litri_ritirati>100</litri_ritirati>
+            </transazione>
+            <transazione>
+                <id_transazione>02</id_transazione>
+                <data>01/02/2013</data>
+                <litri_ritirati>10</litri_ritirati>
+            </transazione>
+            <transazione>
+                <id_transazione>03</id_transazione>
+                <data>1/03/2013</data>
+                <litri_ritirati>12</litri_ritirati>
+            </transazione>
+        </transazioni>
+    </beneficiario>
+    <beneficiario>
+        <cuaa>CDEFGH</cuaa>
+        <pwd>34567</pwd>
+        <nome>amata terra</nome>
+        <anno_quota>2013</anno_quota>
+        <litri_assegnati>1000</litri_assegnati>
+        <transazioni>
+            <transazione>
+                <id_transazione>01</id_transazione>
+                <data>10/01/2013</data>
+                <litri_ritirati>100</litri_ritirati>
+            </transazione>
+            <transazione>
+                <id_transazione>02</id_transazione>
+                <data>10/02/2013</data>
+                <litri_ritirati>100</litri_ritirati>
+            </transazione>
+            <transazione>
+                <id_transazione>03</id_transazione>
+                <data>10/03/2013</data>
+                <litri_ritirati>1200</litri_ritirati>
+            </transazione>
+        </transazioni>
+    </beneficiario>
+    <beneficiario>
+        <cuaa>DEFGHI</cuaa>
+        <pwd>45678</pwd>
+        <nome>placido sereno</nome>
+        <anno_quota>2013</anno_quota>
+        <litri_assegnati>100</litri_assegnati>
+        <transazioni>
+        </transazioni>
+    </beneficiario>
+</beneficiari>

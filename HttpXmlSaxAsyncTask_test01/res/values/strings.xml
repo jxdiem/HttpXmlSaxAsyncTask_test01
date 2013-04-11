@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">HttpXmlSaxAsyncTask</string>
+    <string name="hello">dm_ SAXParserAsyncTaskActivity!</string>
+    <string name="button">Parse downloaded XML using SAX</string>
+    <string name="image">Employee Photo</string>
+    
+</resources>
