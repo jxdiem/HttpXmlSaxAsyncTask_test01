@@ -32,6 +32,7 @@ public class SAXParserAsyncTaskActivity extends Activity implements
  
 //    static final String URL = "http://10.0.2.2:8080/laptops.xml";
   static final String URL = "http://localhost/laptops.xml";
+//  static final String URL = "http://www.dennis.it/joomla/images/beneficiariquotauma.xml";
  
     /** Called when the activity is first created. */
     @Override
